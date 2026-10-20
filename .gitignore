@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Fine-tuned models
+models
+
+# Model checkpoints
+optimizer.pt
+model.safetensors
+
